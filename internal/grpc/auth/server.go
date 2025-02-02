@@ -7,7 +7,7 @@ import (
 	"sso/internal/services/auth"
 	"sso/internal/storage"
 
-	ssov1 "github.com/JustSkiv/protos/gen/go/sso"
+	ssov1 "github.com/speculum-factorem/ssoProto/gen/go/sso"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
